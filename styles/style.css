@@ -1,3 +1,10 @@
+:root {
+  --color-bg-dark: #1f1f1f;
+  --color-bg-light:  #f2f2f2 ;
+  --color-accent: #2f80ed;
+  --color-main-text: #000000;
+}
+
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
