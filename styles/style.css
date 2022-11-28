@@ -307,6 +307,7 @@
 }
 
 .footer__column-heading {
+  margin: 0;
   line-height: 30px;
   font-size: 18px;
   font-weight: 600;
@@ -317,20 +318,6 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-}
-
-
-
-.footer__social-icon_youtube {
-  background-image: url('../images/youtube-icon.svg');
-}
-
-.footer__social-icon_vk {
-  background-image: url('../images/vk_color_white.svg');
-}
-
-.footer__social-icon_tiktok {
-  background-image: url('../images/tiktok-icon.svg');
 }
 
 .footer__social-icon {
