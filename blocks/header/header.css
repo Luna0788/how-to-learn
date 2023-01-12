@@ -7,4 +7,5 @@
     max-height: 756px;
     /* выше установили ограничения для секции */
     background-color: var(--color-bg-light);
+    overflow: hidden;
   }
