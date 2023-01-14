@@ -1,11 +1,11 @@
 /*header*/
 .header {
-    position: relative;
-    display: flex;
-    height: 100vh;
-    min-height: 600px;
-    max-height: 756px;
-    /* выше установили ограничения для секции */
-    background-color: var(--color-bg-light);
-    overflow: hidden;
-  }
+  position: relative;
+  display: flex;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  /* выше установили ограничения для секции */
+  background-color: var(--color-bg-light);
+  overflow: hidden;
+}

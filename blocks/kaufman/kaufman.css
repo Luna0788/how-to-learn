@@ -1,7 +1,7 @@
 /*секция, блок kaufman*/
 .kaufman {
-    position: relative;
-    padding: 90px 0;
-    background-color: var(--color-bg-dark);
-    overflow: hidden;
-  }
+  position: relative;
+  padding: 90px 0;
+  background-color: var(--color-bg-dark);
+  overflow: hidden;
+}

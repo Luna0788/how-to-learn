@@ -1,6 +1,6 @@
 .footer__column-link {
-    color: var(--color-light-text);
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-  }
+  color: var(--color-light-text);
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+}

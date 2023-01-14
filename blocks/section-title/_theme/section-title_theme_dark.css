@@ -1,4 +1,4 @@
 .section-title_theme_dark {
-    color: var(--color-light-text);
-    z-index: 200;
-  }
+  color: var(--color-light-text);
+  z-index: 200;
+}
